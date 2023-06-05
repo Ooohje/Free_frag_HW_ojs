@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OJS_Project</string>
+    <string name="title01">Starry Night</string>
+    <string name="artist01">고흐</string>
+    <string name = "explain_play">위에는 만보기, 아래에는 할슈타트에서 짚라인을 타는 본인(오제석)의 영상입니다</string>
+    <string name="desc01">명화 설명 . . . . .</string>
+
+    <string name="title">산토끼</string>
+    <string name="lyrics">산토끼 토끼야\n어디를 가느냐\n깡총깡총 뛰면서\n어디를 가느냐</string>
+
+    <string name="explain2">두번째 액티비티는, 윗 부분은 7.2과제인 Roulette을 fragment로 구현한 부분과, 여행의 시작지인 로마를 Google Maps에 띄운 Fragment를 버튼으로 전환시킬 수 있게 표현한 것이고, 아래는 제가 유럽 여행을 가서 찍은 사진들(이탈리아의 로마, 베니스, 오스트리아의 할슈타트, 영국의 런던)을 HorizontalScroll view로 표한한 프래그먼트입니다</string>
+
+    <string name="explain3">세번째 액티비티는, ACTIVITY_RECOGNITION의 permission을 받아서 만든 만보기와, 할슈타트에서 짚라인을 타는 본인(오제석)의 동영상을 표시했습니다!</string>
+
+    <string name="title_activity_1">Activity1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_activity_2">Activity2</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="a">A</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
